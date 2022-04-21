@@ -1,0 +1,19 @@
+{
+  "name": "Sam",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "CiCrGFDaFnriJkDWf5YbX4VnB2Ru2jLbaDmuRqr82QLt",
+        "share": 100
+      }
+    ]
+  }
+}
